@@ -1,5 +1,5 @@
 {
-  "name": "familiar",
+  "name": "emberwhisk-familiar",
   "version": "1.0.0",
   "description": "Lightweight companion library for use with an Emberwhisk server",
   "main": "lib/familiar.js",
@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "type": "commonjs",
   "dependencies": {
     "js-sha256": "^0.11.1",
